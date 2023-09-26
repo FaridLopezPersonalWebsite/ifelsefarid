@@ -36,6 +36,11 @@ else {console.log(false)}
 // if one of values is truthy then print true
 // else print false
 
+/*if ("cat"== "cat" || 6 =="6") 
+{
+    console.log(true)
+}
 
-
+else {console.log (false)}
+*/
 
